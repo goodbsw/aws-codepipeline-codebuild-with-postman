@@ -2,6 +2,7 @@
 
 #This shell script updates Postman environment file with the API Gateway URL created
 # via the api gateway deployment
+# how this works when create a stack?
 
 echo "Running update-postman-env-file.sh"
 
